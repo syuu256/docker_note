@@ -1,5 +1,7 @@
 
-  sudo vim Dockerfile
+    sudo vim Dockerfile
+
+====
 
     FROM centos
     MAINTAINER vagrant
